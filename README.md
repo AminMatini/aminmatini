@@ -2,63 +2,91 @@
 
 <div align="center">
 
-💚 **Backend Developer | .NET Tech Lead | System Design Enthusiast** 💚
+💚 <b>Backend Developer | .NET Tech Lead | System Design Enthusiast</b> 💚
 
 </div>
 
----
+<br/>
 
-## 🧑‍🎓 Education
+<table>
+<tr>
+<td width="50%">
 
-**Bachelor's Degree in Food Industry Engineering**
+### 🧑‍🎓 Education
+<div style="background: rgba(0, 255, 128, 0.08); padding:15px; border-radius:15px; backdrop-filter: blur(10px); border:1px solid rgba(0,255,128,0.2);">
+
+**Bachelor's Degree in Food Industry Engineering**  
 Ferdowsi University of Mashhad, Iran
 
----
+</div>
 
-## 💼 Professional Experience
+<br/>
 
-**.NET Tech Lead**
+### 💼 Professional Experience
+<div style="background: rgba(0, 255, 128, 0.08); padding:15px; border-radius:15px; backdrop-filter: blur(10px); border:1px solid rgba(0,255,128,0.2);">
+
+**.NET Tech Lead**  
 Amoot Soft
 
-* Leading backend development projects
-* Designing scalable systems and architectures
-* Mentoring developers and improving code quality
+- Leading backend development projects  
+- Designing scalable systems and architectures  
+- Mentoring developers  
 
----
+</div>
 
-## 🔬 Research Interests
+<br/>
 
-* Backend Development
-* SQL Server Optimization
-* C# and .NET Ecosystem
-* System Design & Architecture
+### 🔬 Research Interests
+<div style="background: rgba(0, 255, 128, 0.08); padding:15px; border-radius:15px; backdrop-filter: blur(10px); border:1px solid rgba(0,255,128,0.2);">
 
----
+- Backend Development  
+- SQL Server Optimization  
+- C# / .NET  
+- System Design  
 
-## 🛠️ Technical Skills
+</div>
 
-* **Languages:** C#
-* **Backend:** .NET / ASP.NET Core
-* **Database:** SQL Server
-* **Architecture:** Design Systems, Scalable Backend Design
+</td>
 
----
+<td width="50%">
 
-## 🌐 Website
+### 🛠️ Technical Skills
+<div style="background: rgba(0, 255, 128, 0.08); padding:15px; border-radius:15px; backdrop-filter: blur(10px); border:1px solid rgba(0,255,128,0.2);">
 
-> [aminmatini.com](https://aminmatini.com)
+- **Language:** C#  
+- **Backend:** .NET / ASP.NET Core  
+- **Database:** SQL Server  
+- **Architecture:** Design Systems  
 
----
+</div>
 
-## 📬 Contact
+<br/>
 
-* 📧 Email: [aminmatini78@gmail.com](mailto:aminmatini78@gmail.com)
-* 📱 Phone: +98 901 963 1855
+### 🌐 Website
+<div style="background: rgba(0, 255, 128, 0.08); padding:15px; border-radius:15px; backdrop-filter: blur(10px); border:1px solid rgba(0,255,128,0.2);">
+
+🔗 https://aminmatini.com
+
+</div>
+
+<br/>
+
+### 📬 Contact
+<div style="background: rgba(0, 255, 128, 0.08); padding:15px; border-radius:15px; backdrop-filter: blur(10px); border:1px solid rgba(0,255,128,0.2);">
+
+📧 aminmatini78@gmail.com  
+📱 +98 901 963 1855  
+
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-💚 *"Building reliable systems with clean architecture and passion for backend development"* 💚
+💚 <i>"Building reliable systems with clean architecture and passion for backend development"</i> 💚
 
 </div>
