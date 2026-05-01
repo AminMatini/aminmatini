@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👨‍💻 Amin Matini
 
-<!--
-**AminMatini/aminmatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+💚 **Backend Developer | .NET Tech Lead | System Design Enthusiast** 💚
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍🎓 Education
+
+**Bachelor's Degree in Food Industry Engineering**
+Ferdowsi University of Mashhad, Iran
+
+---
+
+## 💼 Professional Experience
+
+**.NET Tech Lead**
+Amoot Soft
+
+* Leading backend development projects
+* Designing scalable systems and architectures
+* Mentoring developers and improving code quality
+
+---
+
+## 🔬 Research Interests
+
+* Backend Development
+* SQL Server Optimization
+* C# and .NET Ecosystem
+* System Design & Architecture
+
+---
+
+## 🛠️ Technical Skills
+
+* **Languages:** C#
+* **Backend:** .NET / ASP.NET Core
+* **Database:** SQL Server
+* **Architecture:** Design Systems, Scalable Backend Design
+
+---
+
+## 🌐 Website
+
+> [aminmatini.com](https://aminmatini.com)
+
+---
+
+## 📬 Contact
+
+* 📧 Email: [aminmatini78@gmail.com](mailto:aminmatini78@gmail.com)
+* 📱 Phone: +98 901 963 1855
+
+---
+
+<div align="center">
+
+💚 *"Building reliable systems with clean architecture and passion for backend development"* 💚
+
+</div>
